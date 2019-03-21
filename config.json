@@ -1,0 +1,31 @@
+{
+    "error_code": 0,
+    "message": "Success",
+    "data": {
+        "is_on_maintain": 0,
+        "maintenance_text": "We are under maintenance, Please comback later. Thank you!",
+        "is_ads": 1,
+        "ads_rate": 3,
+        "ads_rate_v2": 10,
+        "ads_network": "admod",
+        "share_ads_rate": 20,
+        "choose_playlist_ads_rate": 20,
+        "pause_ads_rate": 40,
+        "ad_favorite_ads_rate": 20,
+        "timer_ads_rate": 20,
+        "is_ads_purchase": 1,
+        "ads_interstitial": "/112517806/324871527844379",
+        "ads_banner": "/112517806/124871527844379",
+        "build": 1,
+        "force_update": 0,
+        "update_url": "https://play.google.com/store/apps/details?id=com.anime.music.onlinefree",
+        "update_message": "This app have new version. Update now!",
+        "is_dl": 0,
+        "sc_api_key": "WKcQQdEZw7Oi01KqtHWxeVSxNyRzgT8M",
+        "push_local_time_day": 3,
+        "push_local_time_hour": 12,
+        "push_local_title": "Test push",
+        "push_local_content": "Test push",
+        "push_local_status": "off"
+    }
+}
