@@ -43,62 +43,18 @@
 											"x-ad-timeout-ms": 30000,
 											"x-adtype": "custom",
 											"x-browser-agent": 0,
-											"x-custom-event-class-data": "{\"adunit\":\"ca-app-pub-9865132840946459/8726603840\",\"appid\":\"ca-app-pub-9865132840946459~9965262382\",\"isbiding\":\"false\"}",
+											"x-custom-event-class-data": "{\"adunit\":\"ca-app-pub-3940256099942544/5224354917\",\"appid\":\"ca-app-pub-9865132840946459~9965262382\",\"isbiding\":\"false\"}",
 											"x-custom-event-class-name": "com.mopub.mobileads.GooglePlayServicesRewardedVideo",
 											"x-height": 640,
 											"x-networktype": "admob",
 											"x-refreshtime": 60,
 											"x-width": 360
 										},
-										"placement": "ca-app-pub-9865132840946459/8726603840",
+										"placement": "ca-app-pub-3940256099942544/5224354917",
 										"price": 2
 									}
 								]
-							},
-							{
-								"adunitId": "2635",
-								"priority": 95,
-								"placements": [
-									{
-										"network": "unity",
-										"versin": 11,
-										"content": "custom selector",
-										"placementData": {
-											"content-type": "text/html; charset=UTF-8",
-											"x-ad-timeout-ms": 30000,
-											"x-adtype": "custom",
-											"x-browser-agent": 0,
-											"x-custom-event-class-data": "{\"gameId\":\"3354601\",\"zoneId\":\"rwd20AN\"}",
-											"x-custom-event-class-name": "com.mopub.mobileads.UnityRewardedVideo",
-											"x-height": 640,
-											"x-networktype": "unity",
-											"x-refreshtime": 60,
-											"x-width": 360
-										},
-										"placement": "3354601-rwd20AN",
-										"price": 1
-									},
-									{
-										"network": "unity",
-										"versin": 28,
-										"content": "custom selector",
-										"placementData": {
-											"content-type": "text/html; charset=UTF-8",
-											"x-ad-timeout-ms": 30000,
-											"x-adtype": "custom",
-											"x-browser-agent": 0,
-											"x-custom-event-class-data": "{\"gameId\":\"3354601\",\"zoneId\":\"rewardedVideo\"}",
-											"x-custom-event-class-name": "com.mopub.mobileads.UnityRewardedVideo",
-											"x-height": 640,
-											"x-networktype": "unity",
-											"x-refreshtime": 60,
-											"x-width": 360
-										},
-										"placement": "3354601-rewardedVideo",
-										"price": 1
-									}
-								]
-							}
+							} 
 						]
 					}
 				},
@@ -126,144 +82,18 @@
 											"x-ad-timeout-ms": 30000,
 											"x-adtype": "custom",
 											"x-browser-agent": 0,
-											"x-custom-event-class-data": "{\"adUnitID\":\"ca-app-pub-9865132840946459/8783221819\",\"adHeight\":640,\"adWidth\":360,\"appid\":\"ca-app-pub-9865132840946459~9965262382\",\"isbiding\":\"false\"}",
+											"x-custom-event-class-data": "{\"adUnitID\":\"ca-app-pub-3940256099942544/1033173712\",\"adHeight\":640,\"adWidth\":360,\"appid\":\"ca-app-pub-9865132840946459~9965262382\",\"isbiding\":\"false\"}",
 											"x-custom-event-class-name": "com.mopub.mobileads.GooglePlayServicesInterstitial",
 											"x-height": 640,
 											"x-networktype": "admob",
 											"x-refreshtime": 60,
 											"x-width": 360
 										},
-										"placement": "ca-app-pub-9865132840946459/8783221819",
+										"placement": "ca-app-pub-3940256099942544/1033173712",
 										"price": 8
 									}
 								]
-							},
-							{
-								"adunitId": "2639",
-								"priority": 99,
-								"placements": [
-									{
-										"network": "applovin",
-										"versin": 0,
-										"content": "custom selector",
-										"placementData": {
-											"content-type": "text/html; charset=UTF-8",
-											"x-ad-timeout-ms": 30000,
-											"x-adtype": "custom",
-											"x-browser-agent": 0,
-											"x-custom-event-class-data": "{\"zone_id\":\"707544c7cb8b0b96\",\"sdk_key\":\"b9K1tDNCUHHCIznly_WVZ8JA2ruHyzpeKe2Hes5PvNd5m19_2SmcuAXMfsZoSBGnPqrWc64yS73ZnyJwmfa1-Z\"}",
-											"x-custom-event-class-name": "com.mopub.mobileads.AppLovinInterstitial",
-											"x-height": 640,
-											"x-networktype": "applovin",
-											"x-refreshtime": 60,
-											"x-width": 360
-										},
-										"placement": "707544c7cb8b0b96",
-										"price": 0.1
-									},
-									{
-										"network": "applovin",
-										"versin": 0,
-										"content": "custom selector",
-										"placementData": {
-											"content-type": "text/html; charset=UTF-8",
-											"x-ad-timeout-ms": 30000,
-											"x-adtype": "custom",
-											"x-browser-agent": 0,
-											"x-custom-event-class-data": "{\"zone_id\":\"b032a28bb2d73d1a\",\"sdk_key\":\"b9K1tDNCUHHCIznly_WVZ8JA2ruHyzpeKe2Hes5PvNd5m19_2SmcuAXMfsZoSBGnPqrWc64yS73ZnyJwmfa1-Z\"}",
-											"x-custom-event-class-name": "com.mopub.mobileads.AppLovinInterstitial",
-											"x-height": 640,
-											"x-networktype": "applovin",
-											"x-refreshtime": 60,
-											"x-width": 360
-										},
-										"placement": "b032a28bb2d73d1a",
-										"price": 0.1
-									},
-									{
-										"network": "applovin",
-										"versin": 2,
-										"content": "custom selector",
-										"placementData": {
-											"content-type": "text/html; charset=UTF-8",
-											"x-ad-timeout-ms": 30000,
-											"x-adtype": "custom",
-											"x-browser-agent": 0,
-											"x-custom-event-class-data": "{\"zone_id\":\"0bdafe7a49dafe2c\",\"sdk_key\":\"b9K1tDNCUHHCIznly_WVZ8JA2ruHyzpeKe2Hes5PvNd5m19_2SmcuAXMfsZoSBGnPqrWc64yS73ZnyJwmfa1-Z\"}",
-											"x-custom-event-class-name": "com.mopub.mobileads.AppLovinInterstitial",
-											"x-height": 640,
-											"x-networktype": "applovin",
-											"x-refreshtime": 60,
-											"x-width": 360
-										},
-										"placement": "0bdafe7a49dafe2c",
-										"price": 13.5
-									},
-									{
-										"network": "applovin",
-										"versin": 27,
-										"content": "custom selector",
-										"placementData": {
-											"content-type": "text/html; charset=UTF-8",
-											"x-ad-timeout-ms": 30000,
-											"x-adtype": "custom",
-											"x-browser-agent": 0,
-											"x-custom-event-class-data": "{\"zone_id\":\"ebd12465cad448ca\",\"sdk_key\":\"b9K1tDNCUHHCIznly_WVZ8JA2ruHyzpeKe2Hes5PvNd5m19_2SmcuAXMfsZoSBGnPqrWc64yS73ZnyJwmfa1-Z\"}",
-											"x-custom-event-class-name": "com.mopub.mobileads.AppLovinInterstitial",
-											"x-height": 640,
-											"x-networktype": "applovin",
-											"x-refreshtime": 60,
-											"x-width": 360
-										},
-										"placement": "ebd12465cad448ca",
-										"price": 1
-									},
-									{
-										"network": "applovin",
-										"versin": 1,
-										"content": "custom selector",
-										"placementData": {
-											"content-type": "text/html; charset=UTF-8",
-											"x-ad-timeout-ms": 30000,
-											"x-adtype": "custom",
-											"x-browser-agent": 0,
-											"x-custom-event-class-data": "{\"zone_id\":\"770b08b88a57e759\",\"sdk_key\":\"b9K1tDNCUHHCIznly_WVZ8JA2ruHyzpeKe2Hes5PvNd5m19_2SmcuAXMfsZoSBGnPqrWc64yS73ZnyJwmfa1-Z\"}",
-											"x-custom-event-class-name": "com.mopub.mobileads.AppLovinInterstitial",
-											"x-height": 640,
-											"x-networktype": "applovin",
-											"x-refreshtime": 60,
-											"x-width": 360
-										},
-										"placement": "770b08b88a57e759",
-										"price": 7
-									}
-								]
-							},
-							{
-								"adunitId": "2642",
-								"priority": 96,
-								"placements": [
-									{
-										"network": "unity",
-										"versin": 22,
-										"content": "custom selector",
-										"placementData": {
-											"content-type": "text/html; charset=UTF-8",
-											"x-ad-timeout-ms": 30000,
-											"x-adtype": "custom",
-											"x-browser-agent": 0,
-											"x-custom-event-class-data": "{\"gameId\":\"3354601\",\"zoneId\":\"INT\"}",
-											"x-custom-event-class-name": "com.mopub.mobileads.UnityInterstitial",
-											"x-height": 640,
-											"x-networktype": "unity",
-											"x-refreshtime": 60,
-											"x-width": 360
-										},
-										"placement": "3354601-INT",
-										"price": 1
-									}
-								]
-							}
+							} 
 						]
 					}
 				},
@@ -291,34 +121,15 @@
 											"x-ad-timeout-ms": 30000,
 											"x-adtype": "custom",
 											"x-browser-agent": 0,
-											"x-custom-event-class-data": "{\"adUnitID\":\"ca-app-pub-9865132840946459/3071786635\",\"adHeight\":50,\"adWidth\":320,\"appid\":\"ca-app-pub-9865132840946459~9965262382\",\"isbiding\":\"false\"}",
+											"x-custom-event-class-data": "{\"adUnitID\":\"ca-app-pub-3940256099942544/6300978111\",\"adHeight\":50,\"adWidth\":320,\"appid\":\"ca-app-pub-9865132840946459~9965262382\",\"isbiding\":\"false\"}",
 											"x-custom-event-class-name": "com.mopub.mobileads.GooglePlayServicesBanner",
 											"x-height": 50,
 											"x-networktype": "admob",
 											"x-refreshtime": 10,
 											"x-width": 320
 										},
-										"placement": "ca-app-pub-9865132840946459/3071786635",
+										"placement": "ca-app-pub-3940256099942544/6300978111",
 										"price": 4
-									},
-									{
-										"network": "unity",
-										"versin": 1,
-										"content": "custom selector",
-										"placementData": {
-											"content-type": "text/html; charset=UTF-8",
-											"x-ad-timeout-ms": 30000,
-											"x-adtype": "custom",
-											"x-browser-agent": 0,
-											"x-custom-event-class-data": "{\"gameId\":\"3354601\",\"zoneId\":\"banner\"}",
-											"x-custom-event-class-name": "com.mopub.mobileads.UnityBanner",
-											"x-height": 50,
-											"x-networktype": "unity",
-											"x-refreshtime": 10,
-											"x-width": 320
-										},
-										"placement": "3354601-banner",
-										"price": 0.2
 									}
 								]
 							}
@@ -349,14 +160,14 @@
 											"x-ad-timeout-ms": 30000,
 											"x-adtype": "custom",
 											"x-browser-agent": 0,
-											"x-custom-event-class-data": "{\"adunit\":\"ca-app-pub-9865132840946459/9853018062\",\"appid\":\"ca-app-pub-9865132840946459~9965262382\",\"isbiding\":\"false\"}",
+											"x-custom-event-class-data": "{\"adunit\":\"ca-app-pub-3940256099942544/2247696110\",\"appid\":\"ca-app-pub-9865132840946459~9965262382\",\"isbiding\":\"false\"}",
 											"x-custom-event-class-name": "com.erasuper.nativeads.GooglePlayServicesNative",
 											"x-height": 640,
 											"x-networktype": "admob",
 											"x-refreshtime": 10,
 											"x-width": 360
 										},
-										"placement": "ca-app-pub-9865132840946459/9853018062",
+										"placement": "ca-app-pub-3940256099942544/2247696110",
 										"price": 1
 									}
 								]
