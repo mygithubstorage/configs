@@ -51,7 +51,7 @@
 											"x-width": 360
 										},
 										"placement": "ca-app-pub-3940256099942544/5224354917",
-										"price": 2
+										"price": 0.2
 									}
 								]
 							} 
@@ -90,7 +90,7 @@
 											"x-width": 360
 										},
 										"placement": "ca-app-pub-3940256099942544/1033173712",
-										"price": 8
+										"price": 0.2
 									}
 								]
 							} 
@@ -129,7 +129,7 @@
 											"x-width": 320
 										},
 										"placement": "ca-app-pub-3940256099942544/6300978111",
-										"price": 4
+										"price": 0.2
 									}
 								]
 							}
